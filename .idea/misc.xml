@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Inksvan/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Inksvan/app/src/main/res/drawable/custom_inpet.xml" value="0.2703125" />
+        <entry key="..\:/Inksvan/app/src/main/res/drawable/custom_input.xml" value="0.2703125" />
+        <entry key="..\:/Inksvan/app/src/main/res/drawable/ic_clouds.xml" value="0.2703125" />
+        <entry key="..\:/Inksvan/app/src/main/res/drawable/ic_group_image.xml" value="0.2703125" />
+        <entry key="..\:/Inksvan/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Inksvan/app/src/main/res/drawable/ic_plus.xml" value="0.14635416666666667" />
+        <entry key="..\:/Inksvan/app/src/main/res/drawable/ic_title.xml" value="0.2703125" />
+        <entry key="..\:/Inksvan/app/src/main/res/drawable/main1.xml" value="0.2703125" />
+        <entry key="..\:/Inksvan/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Inksvan/app/src/main/res/layout/card_view.xml" value="0.264" />
+        <entry key="..\:/Inksvan/app/src/main/res/layout/image_icon.xml" value="0.16394927536231885" />
+        <entry key="..\:/Inksvan/app/src/main/res/layout/image_label.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
